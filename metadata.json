@@ -1,0 +1,6 @@
+{
+  "name": "UPI Transaction Analysis",
+  "description": "End-to-end UPI Transaction Analysis & Fraud Detection Pipeline with ML model, Streamlit interactive dashboard, and React Admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
